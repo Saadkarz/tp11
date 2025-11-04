@@ -167,6 +167,18 @@ http://localhost:8082/api
 
 ### Example Requests
 
+<img width="1906" height="1134" alt="Screenshot 2025-11-04 155510" src="https://github.com/user-attachments/assets/b931a636-4481-4286-a13d-9bb867792bab" />
+
+
+<img width="1605" height="1006" alt="Screenshot 2025-11-04 151204" src="https://github.com/user-attachments/assets/97ce5afd-44e1-45b8-a0c1-f5cde0b67e7b" />
+
+
+<img width="1618" height="1011" alt="Screenshot 2025-11-04 151146" src="https://github.com/user-attachments/assets/d22da3f6-f66c-483a-8e21-4b754d90bf1b" />
+
+
+<img width="1787" height="1069" alt="Screenshot 2025-11-04 151140" src="https://github.com/user-attachments/assets/736ecb99-b90f-41fe-a7a8-aa79fb286bba" />
+
+
 #### Get All Accounts
 ```
 GET http://localhost:8082/api/comptes
